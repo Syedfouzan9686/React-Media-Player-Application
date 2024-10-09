@@ -1,0 +1,479 @@
+.cardsdivs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    row-gap: 50px;
+    column-gap: 30px;
+    height: min-content;
+    margin: auto;
+    z-index: 5;
+
+}
+
+.cardsdiv_outer {
+    justify-content: center;
+    margin-top: 2%;
+    padding-left: 80px;
+    padding-bottom:30px;
+}
+
+.cardss {
+    position: relative;
+    border-radius: 5px;
+    /* height: 50px; */
+    width: 240px;
+    background-color: #ffffff;
+    text-align: left;
+    overflow: hidden;
+    align-self: normal;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+/* .cardss:hover h3{
+    font-size: 22px;
+} */
+
+.h3_p {
+    top: 0;
+    text-align: left;
+    padding-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.cardss h3 {
+    margin-bottom: 10px;
+}
+   
+.cardss p {
+    margin-top: 10px;
+}
+
+.image1 {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.image2 {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.menudiv {
+    position: absolute;
+    border-radius: 5px;
+    gap:3px;
+    font-family: 'Times New Roman', Times, serif ;
+    cursor: pointer;
+    right: 50px;
+    top: 10px;
+    width: 80px;
+    color: rgb(11, 11, 11);
+    background-color: #ffffff;
+    padding: 10px;
+    display: flex;
+    align-items:center;
+    overflow: hidden;
+    
+}
+
+
+@media only screen and (min-width:1200px) and (max-width:1460px) {
+
+    .cardsdivs {
+        column-gap: 60px;
+        padding-left: 60px;
+    }
+
+    .cardsdiv_outer {
+        
+        padding-left: 100px;
+        /* margin-top: 8%; */
+
+    }
+}
+
+@media only screen and (min-width:1024px) and (max-width:1400px) {
+    .cardsdivs {
+
+        column-gap: 60px;
+        padding-left: 60px;
+    }
+
+    .cardsdiv_outer {
+        
+        padding-left: 50px;
+        /* margin-top: 8%; */
+    }
+}
+
+@media only screen and (min-width:1024px) and (max-width:1347px) {
+    .cardsdivs {
+        column-gap: 60px;
+        padding-left: 60px;
+    }
+
+    .cardsdiv_outer {
+        
+        /* margin-top: 8%; */
+        padding-left: 30px;
+
+    }
+}
+
+@media only screen and (min-width:1024px) and (max-width:1300px) {
+    .cardsdivs {
+        column-gap: 50px;
+        padding-left: 20px;
+    }
+
+    .cardsdiv_outer {
+        
+        /* margin-top: 8%; */
+        padding-left: 70px;
+
+    }
+
+    .cardss {
+        position: relative;
+        /* height: 50px; */
+        width: 240px;
+    }
+}
+
+@media only screen and (min-width:1024px) and (max-width:1250px) {
+    .cardsdivs {
+        column-gap: 50px;
+        padding-top: 20px;
+        padding-left: 20px;
+    }
+
+    .cardsdiv_outer {
+        
+        /* margin-top: 8%; */
+        padding-left: 70px;
+    }
+
+    .cardss {
+        width: 220px;
+    }
+}
+
+    @media only screen and (min-width:1044px) and (max-width:1173px) {
+
+        .cardsdivs {
+            column-gap: 40px;
+            padding-left: 20px;
+        }
+
+        .cardsdiv_outer {
+            
+            /* margin-top: 7%; */
+            padding-left: 60px;
+        }
+
+        .cardss {
+            position: relative;
+            width: 200px;
+        }
+    }
+
+    @media only screen and (min-width:1014px) and (max-width:1057px) {
+        .cardsdivs {
+            
+            column-gap: 30px;
+            align-items: start;
+        }
+
+        .cardsdiv_outer {
+            text-align: start;
+           /* padding-top: 0px; */
+            padding-left: 40px;
+
+        }
+
+        .cardss {
+            position: relative;
+            width: 200px;
+        }
+    }
+
+    @media only screen and (min-width:768px) and (max-width:909px) {
+        .cardsdivs {
+           
+            column-gap: 20px;
+            padding-left: 20px;
+
+
+        }
+
+        .cardsdiv_outer {
+            
+            /* padding: 20px; */
+            padding-left: 20px;
+
+        }
+
+        .cardss {
+            position: relative;
+            width: 240px;
+        }
+    }
+
+    @media only screen and (min-width:750px) and (max-width:768px) {
+        .cardsdivs {
+
+            column-gap: 30px;
+            padding-left: 20px;
+        }
+
+        .cardsdiv_outer {
+            
+            /* padding: 20px; */
+            padding-left: 20px;
+
+        }
+
+        .cardss {
+            position: relative;
+            width: 220px;
+        }
+    }
+
+    @media only screen and (min-width:768px) and (max-width:793px) {
+        .cardsdivs {
+
+            column-gap: 30px;
+            padding-left: 20px;
+
+
+        }
+
+        .cardsdiv_outer {
+/*             
+            padding: 20px; */
+            padding-left: 20px;
+
+        }
+
+        .cardss {
+            position: relative;
+            width: 200px;
+        }
+    }
+
+    @media only screen and (min-width:650px) and (max-width:826px) {
+        .cardsdivs {
+            column-gap: 30px;
+            padding-left: 20px;
+        }
+        .cardsdiv_outer {
+            
+            /* padding: 20px; */
+            padding-left: 20px;
+
+        }
+        .cardss {
+            position: relative;
+            /* height: 50px; */
+            width: 200px;
+        }
+    }
+
+    @media only screen and (min-width:650px) and (max-width:720px) {
+        .cardsdivs {
+            column-gap: 40px;
+            padding-left: 20px;
+        }
+        .cardsdiv_outer {
+            
+            /* padding: 30px; */
+            padding-left: 30px;
+        }
+        .cardss {
+            position: relative;
+            /* height: 50px; */
+            width: 250px;
+        }
+    }
+
+    @media only screen and (min-width:630px) and (max-width:650px) {
+        .cardsdivs {
+            column-gap: 20px;
+            padding-left: 10px;
+        }
+        .cardsdiv_outer {
+            
+            /* padding: 30px; */
+            margin: 10%;
+        }
+        .cardss {
+            position: relative;
+            width: 200px;
+        }
+    }
+    @media only screen and (min-width:590px) and (max-width:630px) {
+        .cardsdivs {
+            column-gap: 30px;
+            align-items: start;
+        }
+
+        .cardsdiv_outer {
+            text-align: start;
+            /* margin-top: 15%; */
+            padding-left: 40px;
+
+        }
+
+        .cardss {
+            position: relative;
+            width: 200px;
+        }
+    }
+
+    @media only screen and (max-width:600px) {
+        .cardsdivs {
+
+            column-gap: 20px;
+            /* padding: 40px; */
+            padding-left: 20px;
+
+
+        }
+
+        .cardsdiv_outer {
+            
+            padding: 40px;
+            /* padding-top: 40px; */
+            padding-left: 20px;
+
+        }
+
+        .cardss {
+            position: relative;
+            /* height: 50px; */
+            width: 220px;
+        }
+    }
+
+    @media only screen and (max-width:540px) {
+        .cardsdivs {
+           
+            column-gap: 10px;
+            padding-left: 10px;
+        }
+
+        .cardsdiv_outer {
+            
+            padding: 10px;
+            /* padding-top: 40px; */
+            padding-left: 10px;
+
+        }
+
+        .cardss {
+            position: relative;
+            /* height: 50px; */
+            width: 220px;
+        }
+    }
+
+    @media only screen and (max-width:480px) {
+        .cardsdivs {
+           
+            column-gap: 10px;
+            padding-left: 10px;
+            z-index: 100;
+            font-size: 14px;
+        }
+
+        .cardsdiv_outer {
+            
+            padding: 10px;
+            /* padding-top: 50px; */
+            padding-left: 20px;
+
+        }
+
+        .cardss {
+            position: relative;
+            width: 180px;
+        }
+    }
+
+    @media only screen and (max-width:410px) {
+        .cardsdivs {
+            column-gap: 10px;
+            padding-left: 10px;
+            font-size: 14px;
+        }
+
+        .cardsdiv_outer {
+            
+            padding: 10px;
+            /* padding-top: 60px; */
+            padding-left: 20px;
+
+        }
+
+        .cardss {
+            position: relative;
+            width: 150px;
+        }
+        .menudiv {
+            width:70px;
+        }
+    }
+
+    @media only screen and (max-width:350px) {
+        .cardsdivs {
+            column-gap: 10px;
+            padding-left: 10px;
+            font-size: 14px;
+        }
+
+        .cardsdiv_outer {
+            
+            padding: 20px;
+            /* padding-top: 60px; */
+            padding-left: 30px;
+
+        }
+
+        .cardss {
+            position: relative;
+            width: 250px;
+        }
+        
+    }
+    @media only screen and (max-width:321px) {
+        .cardsdivs {
+            column-gap: 5px;
+            row-gap: 20px;
+            padding-left: 10px;
+            font-size: 14px;
+
+        }
+
+        .cardsdiv_outer {
+            
+            padding: 10px;
+            /* padding-top: 60px; */
+            padding-left: 5px;
+
+        }
+
+        .cardss {
+            position: relative;
+            width: 140px;
+        }
+        .menudiv {
+            padding: 10px;
+            width:60px;
+            font-size: 13px;
+        }
+    }
+
+
+
+
+   

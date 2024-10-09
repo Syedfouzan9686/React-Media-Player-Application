@@ -1,0 +1,43 @@
+.sliderContainer {
+    /* position: relative; */
+    margin-top: 4rem;
+    padding: 3%;
+    /* gap:20px; */
+    z-index: 500;
+     overflow: hidden;
+     height: 100%;
+     padding-top: 25px;
+     
+}
+
+.btn_right {
+    position: fixed;
+    color:black;
+    top:35%;
+    left:5%;
+    z-index:600;
+    font-size: 20px;
+}
+
+.btn_left {
+    position: fixed;
+    color:black;
+    top:35%;
+    right:5%;
+    z-index:600 ;
+    font-size: 20px;
+}
+
+
+.slick-prev:before, .slick-next:before {
+display: none;
+}
+    
+    
+
+@media only screen and (max-width:426px){
+    .sliderContainer{
+        padding-bottom: 40px;
+    }
+}
+

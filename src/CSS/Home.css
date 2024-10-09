@@ -1,0 +1,12 @@
+
+.anchor {
+    color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+}
+  * {
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .Searchdiv{
+        z-index: 500;
+  }

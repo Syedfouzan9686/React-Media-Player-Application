@@ -1,0 +1,432 @@
+{
+    "SongList" : [ 
+      {
+        "id":"s764",
+        "songName": "Imagine",
+        "singer": "John Lennon",
+        "category":"Hipop"
+      },
+      {
+        "id":"sd769",
+        "songName": "Hotel California",
+        "singer": "Eagles",
+        "category":"Rock"
+      },
+      {
+        "id":"sd6",
+        "songName": "Stairway to Heaven",
+        "singer": "Led Zeppelin",
+        "category":"Rock"
+      },
+      {
+      "id": "sda864",
+      "songName": "Gangsta Luv",
+      "singer": "Sarkodie",
+      "category": "Hiplife"
+  },
+  {
+      "id": "s75e9",
+      "songName": "Asesa",
+      "singer": "Stonebwoy",
+      "category": "Hiplife"
+  },
+  {
+      "id": "sd7f9",
+      "songName": "Oofeetso",
+      "singer": "Sarkodie ft. Prince Bright",
+      "category": "Hiplife"
+  },
+  {
+      "id": "sd76c1",
+      "songName": "Angela",
+      "singer": "Kuami Eugene",
+      "category": "Hiplife"
+  },
+  {
+      "id": "sd7ba",
+      "songName": "Gringo",
+      "singer": "Shatta Wale",
+      "category": "Hiplife"
+  },
+  {
+      "id": "s7f9c",
+      "songName": "Adonai",
+      "singer": "Sarkodie ft. Castro",
+      "category": "Hiplife"
+  },
+  {
+      "id": "s7e64",
+      "songName": "Kpo Keke",
+      "singer": "Stonebwoy ft. Medikal, Darkovibes, Kelvyn Boy, Kwesi Arthur",
+      "category": "Hiplife"
+  },
+  {
+      "id": "sd79d",
+      "songName": "Grind Day",
+      "singer": "Kwesi Arthur",
+      "category": "Hiplife"
+  },
+  {
+      "id": "sd7e9",
+      "songName": "My Own",
+      "singer": "Samini",
+      "category": "Hiplife"
+  },
+  {
+      "id": "s7d9f",
+      "songName": "Thunder Fire You",
+      "singer": "Ruff Kid",
+      "category": "Hiplife"
+  },
+  {
+      "id": "sd764",
+      "songName": "Bohemian Rhapsody",
+      "singer": "Queen",
+      "category": "Pop"
+  },
+  {
+      "id": "sd769",
+      "songName": "steam California",
+      "singer": "Eagles",
+      "category": "Rock"
+  },
+  {
+      "id": "sd7d64",
+      "songName": "Hai Jude",
+      "singer": "The Beatles",
+      "category": "Rock"
+  },
+  {
+      "id": "sd6",
+      "songName": "Staicase to Heaven",
+      "singer": "Led Zeppelin",
+      "category": "Rock"
+  },{
+    "id": "s7cd9",
+    "songName": "Shape of You",
+    "singer": "Ed Sheeran",
+    "category": "Pop"
+},
+{
+    "id": "s7e2f",
+    "songName": "Old Town Road",
+    "singer": "Lil Nas X ft. Billy Ray Cyrus",
+    "category": "Pop"
+},
+{
+    "id": "s7fb1",
+    "songName": "Blinding Lights",
+    "singer": "The Weeknd",
+    "category": "Pop"
+},
+{
+    "id": "sd7c2",
+    "songName": "SICKO MODE",
+    "singer": "Travis Scott",
+    "category": "Hipop"
+},
+{
+    "id": "s7d98",
+    "songName": "Lucid Dreams",
+    "singer": "Juice WRLD",
+    "category": "Hipop"
+},
+{
+    "id": "sd72e",
+    "songName": "Sunflower",
+    "singer": "Post Malone & Swae Lee",
+    "category": "Hipop"
+},
+{
+    "id": "s7bc1",
+    "songName": "Smells Like Teen Spirit",
+    "singer": "Nirvana",
+    "category": "Rock"
+},
+{
+    "id": "sd7a89",
+    "songName": "Highway to Hell",
+    "singer": "AC/DC",
+    "category": "Rock"
+},
+{
+    "id": "s7e54",
+    "songName": "Sweet Child O' Mine",
+    "singer": "Guns N' Roses",
+    "category": "Rock"
+},{
+  "id": "s7c29",
+  "songName": "Good 4 U",
+  "singer": "Olivia Rodrigo",
+  "category": "New Releases"
+},
+{
+  "id": "s7d28",
+  "songName": "Stay",
+  "singer": "The Kid LAROI & Justin Bieber",
+  "category": "New Releases"
+},
+{
+  "id": "s7e37",
+  "songName": "Montero (Call Me By Your Name)",
+  "singer": "Lil Nas X",
+  "category": "New Releases"
+},
+{
+  "id": "s7f26",
+  "songName": "Save Your Tears",
+  "singer": "The Weeknd & Ariana Grande",
+  "category": "New Releases"
+},
+{
+  "id": "sd725c",
+  "songName": "Levitating",
+  "singer": "Dua Lipa ft. DaBaby",
+  "category": "New Releases"
+},
+{
+  "id": "s7b3e",
+  "songName": "Peaches",
+  "singer": "Justin Bieber ft. Daniel Caesar & Giveon",
+  "category": "New Releases"
+},
+{
+  "id": "s7a4d",
+  "songName": "Industry Baby",
+  "singer": "Lil Nas X ft. Jack Harlow",
+  "category": "New Releases"
+},
+{
+  "id": "sd7e5",
+  "songName": "Heat Waves",
+  "singer": "Glass Animals",
+  "category": "New Releases"
+},
+{
+  "id": "s7c6f",
+  "songName": "Shivers",
+  "singer": "Ed Sheeran",
+  "category": "New Releases"
+},
+{
+  "id": "sd7e3",
+  "songName": "Butter",
+  "singer": "BTS",
+  "category": "New Releases"
+},{
+  "id":"s764",
+  "songName": "Imagine",
+  "singer": "John Lennon",
+  "category":"Hipop"
+},
+{
+  "id":"sd769",
+  "songName": "Hotel California",
+  "singer": "Eagles",
+  "category":"Rock"
+},
+{
+  "id":"sd6",
+  "songName": "Stairway to Heaven",
+  "singer": "Led Zeppelin",
+  "category":"Rock"
+},
+{
+"id": "sda864",
+"songName": "Gangsta Luv",
+"singer": "Sarkodie",
+"category": "Hiplife"
+},
+{
+"id": "s75e9",
+"songName": "Asesa",
+"singer": "Stonebwoy",
+"category": "Hiplife"
+},
+{
+"id": "sd7f9",
+"songName": "Oofeetso",
+"singer": "Sarkodie ft. Prince Bright",
+"category": "Hiplife"
+},
+{
+"id": "sd76c1",
+"songName": "Angela",
+"singer": "Kuami Eugene",
+"category": "Hiplife"
+},
+{
+"id": "sd7ba",
+"songName": "Gringo",
+"singer": "Shatta Wale",
+"category": "Hiplife"
+},
+{
+"id": "s7f9c",
+"songName": "Adonai",
+"singer": "Sarkodie ft. Castro",
+"category": "Hiplife"
+},
+{
+"id": "s7e64",
+"songName": "Kpo Keke",
+"singer": "Stonebwoy ft. Medikal, Darkovibes, Kelvyn Boy, Kwesi Arthur",
+"category": "Hiplife"
+},
+{
+"id": "sd79d",
+"songName": "Grind Day",
+"singer": "Kwesi Arthur",
+"category": "Hiplife"
+},
+{
+"id": "sd7e9",
+"songName": "My Own",
+"singer": "Samini",
+"category": "Hiplife"
+},
+{
+"id": "s7d9f",
+"songName": "Thunder Fire You",
+"singer": "Ruff Kid",
+"category": "Hiplife"
+},
+{
+"id": "sd764",
+"songName": "Bohemian Rhapsody",
+"singer": "Queen",
+"category": "Pop"
+},
+{
+"id": "sd769",
+"songName": "steam California",
+"singer": "Eagles",
+"category": "Rock"
+},
+{
+"id": "sd7d64",
+"songName": "Hai Jude",
+"singer": "The Beatles",
+"category": "Rock"
+},
+{
+"id": "sd6",
+"songName": "Staicase to Heaven",
+"singer": "Led Zeppelin",
+"category": "Rock"
+},{
+"id": "s7cd9",
+"songName": "Shape of You",
+"singer": "Ed Sheeran",
+"category": "Pop"
+},
+{
+"id": "s7e2f",
+"songName": "Old Town Road",
+"singer": "Lil Nas X ft. Billy Ray Cyrus",
+"category": "Pop"
+},
+{
+"id": "s7fb1",
+"songName": "Blinding Lights",
+"singer": "The Weeknd",
+"category": "Pop"
+},
+{
+"id": "sd7c2",
+"songName": "SICKO MODE",
+"singer": "Travis Scott",
+"category": "Hipop"
+},
+{
+"id": "s7d98",
+"songName": "Lucid Dreams",
+"singer": "Juice WRLD",
+"category": "Hipop"
+},
+{
+"id": "sd72e",
+"songName": "Sunflower",
+"singer": "Post Malone & Swae Lee",
+"category": "Hipop"
+},
+{
+"id": "s7bc1",
+"songName": "Smells Like Teen Spirit",
+"singer": "Nirvana",
+"category": "Rock"
+},
+{
+"id": "sd7a89",
+"songName": "Highway to Hell",
+"singer": "AC/DC",
+"category": "Rock"
+},
+{
+"id": "s7e54",
+"songName": "Sweet Child O' Mine",
+"singer": "Guns N' Roses",
+"category": "Rock"
+},{
+"id": "s7c29",
+"songName": "Good 4 U",
+"singer": "Olivia Rodrigo",
+"category": "New Releases"
+},
+{
+"id": "s7d28",
+"songName": "Stay",
+"singer": "The Kid LAROI & Justin Bieber",
+"category": "New Releases"
+},
+{
+"id": "s7e37",
+"songName": "Montero (Call Me By Your Name)",
+"singer": "Lil Nas X",
+"category": "New Releases"
+},
+{
+"id": "s7f26",
+"songName": "Save Your Tears",
+"singer": "The Weeknd & Ariana Grande",
+"category": "New Releases"
+},
+{
+"id": "sd725c",
+"songName": "Levitating",
+"singer": "Dua Lipa ft. DaBaby",
+"category": "New Releases"
+},
+{
+"id": "s7b3e",
+"songName": "Peaches",
+"singer": "Justin Bieber ft. Daniel Caesar & Giveon",
+"category": "New Releases"
+},
+{
+"id": "s7a4d",
+"songName": "Industry Baby",
+"singer": "Lil Nas X ft. Jack Harlow",
+"category": "New Releases"
+},
+{
+"id": "sd7e5",
+"songName": "Heat Waves",
+"singer": "Glass Animals",
+"category": "New Releases"
+},
+{
+"id": "s7c6f",
+"songName": "Shivers",
+"singer": "Ed Sheeran",
+"category": "New Releases"
+},
+{
+"id": "sd7e3",
+"songName": "Butter",
+"singer": "BTS",
+"category": "New Releases"
+}
+
+]}
+

@@ -1,0 +1,40 @@
+
+{
+    "SlidesList":[{
+        "id":"443f",
+        "url":"./ImageUrl/slider1.jpg",
+        "songurl":"./Songs/slide2.mp3"
+    },{
+        "id":"5234f",
+        "url":"./ImageUrl/slider2.jpg",
+        "songurl":"./Songs/slide1.mp3"
+    },{
+        "id":"6324",
+        "url":"./ImageUrl/slider3.jpg",
+        "songurl":"./Songs/slide1.mp3"
+    },{
+        "id":"443f",
+        "url":"./ImageUrl/slider4.jpg",
+        "songurl":"./Songs/slide1.mp3"
+    },{
+        "id":"5234f",
+        "url":"./ImageUrl/slider5.jpg",
+        "songurl":"./Songs/slide1.mp3"
+    },{
+        "id":"6324",
+        "url":"./ImageUrl/slider6.jpg",
+        "songurl":"./Songs/slide1.mp3"
+    },{
+        "id":"443f",
+        "url":"./ImageUrl/slider7.jpg",
+        "songurl":"./Songs/slide1.mp3"
+    },{
+        "id":"5234f",
+        "url":"./ImageUrl/slider8.jpg",
+        "songurl":"./Songs/slide1.mp3"
+    },{
+        "id":"6324",
+        "url":"./ImageUrl/slider9.jpg",
+        "songurl":"./Songs/slide1.mp3"
+    }]
+}

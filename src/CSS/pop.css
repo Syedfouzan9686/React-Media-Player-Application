@@ -1,0 +1,11 @@
+.popdiv {
+    padding-top:82px;
+}
+.popinner{
+    position: absolute;
+    top: 200px;
+}
+
+.popimage {
+    width: 100%;
+}

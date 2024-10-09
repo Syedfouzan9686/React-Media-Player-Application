@@ -1,0 +1,35 @@
+
+.categorydiv {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.categorydiv input[type='radio'] {
+    display: none;
+}
+
+.custom {
+    border : 2px solid wheat;
+    width:15px;
+    height:15px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-around;
+    gap:20px;
+    background-color: white;
+    padding-top: 2px;
+    
+}
+.categoryLabel {
+    display: flex;
+    gap:6px;
+}
+.custom.checked {
+    background-color: #ed0c6e;
+}
+.checked {
+    color: white;
+    font-size: 13px;
+}
+
+

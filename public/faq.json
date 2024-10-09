@@ -1,0 +1,71 @@
+{
+    "faqList": [
+        {
+            "question": "What is CallerTunez Service?",
+            "answer": {
+                "header": "",
+                "dataList": [
+                    {
+                        "text": "Callertunez service allows you to replace your standard ringing tone with a tune of your choice from a wide catalogue of content from MTN. Your callers can listen to the tune of your choice when they call you. You can select tune of your choice from thousands of latest and popular tones."
+                    }
+                ]
+            }
+        },
+        {
+            "question": "What are the charges for Callertunez service?",
+            "answer": {
+                "header": "The charges for Callertunez service are",
+                "dataList": [
+                    {
+                        "text": "New subscription (or service subscription auto renewal): GHS 0.70 / 30 days"
+                    },
+                    {
+                        "text": "Caller tune download (or renewal): GHS 0.50 per song valid for 30 days"
+                    }
+                ]
+            }
+        },
+        {
+            "question": "How can I renew my tunes on the Callertunez service?",
+            "answer": {
+                "header": "",
+                "dataList": [
+                    {"text":"It is an auto renewal service, and you would be renewed and charged for the service according to your subscription plan and tune validity."}
+                ] 
+            }
+        },
+        {
+            "question": "How can I deactivate Callertunez service?",
+            "answer": {
+                "header": "You can deactivate Callertunez service by",
+                "dataList": [
+                    {"text":"Calling 1355 (charges apply after the first two minutes) and go to 'my account section' then choose deactivate\n- Typing 'STOP' and send to 1355\n- Dialing *1355# and go to account section to unsubscribe the service"},
+                    {"text":"Calling customer care 100"}
+                ]  
+            }
+        },
+        {
+            "question": "Can I set a tune for a specific caller?",
+            "answer": {
+                "header": "Yes. You can assign a specific tone for your special caller with the options given below",
+                "dataList": [
+                    {"text":"Just call 1355 and follow the Instructions"}
+                ] 
+            }
+        },
+        {
+            "question": " How can I activate Callertunez service?",
+            "answer": {
+                "header": "You can activate Callertunez service by following methods.",
+                "dataList": [
+                    {"text":"By Dialling USSD - *1355#"},
+                    {"text":"SMS – send  ‘SONG CODE’ to 1355"},
+                    {"text":"WEB – http://callertunez.mtn.com.gh"},
+                    {"text":"Dial 1355 and follow voice prompt"},
+                    {"text":" press ‘*1’  when you call any user to copy his/her song"}
+                    
+                ] 
+            }
+        }
+    ]
+}

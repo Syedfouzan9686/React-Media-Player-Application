@@ -1,0 +1,76 @@
+{
+    "TopReleasesList": [
+        {
+            "id": "443f",
+            "imageurl": "../ImageUrl/slider1.jpg",
+            "songurl": "../Songs/slide2.mp3",
+            "category": "month",
+            "songname": "Sunset Dreams",
+            "singer": "Melody Maker"
+        },
+        {
+            "id": "5234f",
+            "imageurl": "../ImageUrl/slider2.jpg",
+            "songurl": "../Songs/slide1.mp3",
+            "category": "week",
+            "songname": "Midnight Groove",
+            "singer": "Rhythm Master"
+        },
+        {
+            "id": "6324",
+            "imageurl": "../ImageUrl/slider3.jpg",
+            "songurl": "../Songs/slide1.mp3",
+            "category": "month",
+            "songname": "Ocean Serenade",
+            "singer": "Wave Rider"
+        },
+        {
+            "id": "443f",
+            "imageurl": "../ImageUrl/slider4.jpg",
+            "songurl": "../Songs/slide1.mp3",
+            "category": "month",
+            "songname": "City Lights",
+            "singer": "Urban Beat"
+        },
+        {
+            "id": "5234f",
+            "imageurl": "../ImageUrl/slider5.jpg",
+            "songurl": "../Songs/slide1.mp3",
+            "category": "week",
+            "songname": "Morning Sunshine",
+            "singer": "Early Bird"
+        },
+        {
+            "id": "6324",
+            "imageurl": "../ImageUrl/slider6.jpg",
+            "songurl": "../Songs/slide1.mp3",
+            "category": "month",
+            "songname": "Nightfall Symphony",
+            "singer": "Moonlight Sonata"
+        },
+        {
+            "id": "443f",
+            "imageurl": "../ImageUrl/slider7.jpg",
+            "songurl": "../Songs/slide1.mp3",
+            "category": "week",
+            "songname": "Summer Breeze",
+            "singer": "Sunny Day"
+        },
+        {
+            "id": "5234f",
+            "imageurl": "../ImageUrl/slider8.jpg",
+            "songurl": "../Songs/slide1.mp3",
+            "category": "week",
+            "songname": "Rising Tides",
+            "singer": "High Tide"
+        },
+        {
+            "id": "6324",
+            "imageurl": "../ImageUrl/slider9.jpg",
+            "songurl": "../Songs/slide1.mp3",
+            "category": "liked",
+            "songname": "Eternal Flame",
+            "singer": "Heart's Desire"
+        }
+    ]
+}

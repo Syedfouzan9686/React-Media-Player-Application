@@ -1,0 +1,34 @@
+{
+  "Wishlist": [
+    {
+      "id": "sd7d64",
+      "songName": "Hey Jude",
+      "singer": "The Beatles",
+      "category": "Rock"
+    },
+    {
+      "id": "sd769",
+      "songName": "Hotel California",
+      "singer": "Eagles",
+      "category": "Rock"
+    },
+    {
+      "id": "sd6",
+      "songName": "Stairway to Heaven",
+      "singer": "Led Zeppelin",
+      "category": "Rock"
+    },
+    {
+      "id": "sda864",
+      "songName": "Gangsta Luv",
+      "singer": "Sarkodie",
+      "category": "Hiplife"
+    },
+    {
+      "id": "s7e64",
+      "songName": "Kpo Keke",
+      "singer": "Stonebwoy ft. Medikal, Darkovibes, Kelvyn Boy, Kwesi Arthur",
+      "category": "Hiplife"
+    }
+  ]
+}

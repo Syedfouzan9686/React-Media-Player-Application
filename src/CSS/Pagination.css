@@ -1,0 +1,42 @@
+
+.pagination_outer{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    
+}
+
+.pagination_inner {
+    width:5%;
+    height: fit-content;
+    border:1px solid #bcbfc1;
+    font-size: 20px;
+    background-color:white;
+    padding: 0.5%;
+   
+}
+.prev_next {
+    font-size: 18px;
+    color: #ed0c6e;
+    
+}
+.next_btn {
+    padding: 0.5%;
+}
+.prev_btn {
+    padding: 0.5%;
+}
+.selected {
+    background-color: #eaecef;
+}
+.selected_all {
+    color:#4e4e4e
+}
+@media only screen and (max-width:426px){
+    .pagination_inner {
+        width:10%;
+    }
+    
+}

@@ -1,0 +1,131 @@
+
+.login_Overlay{
+    position: fixed;
+    top:0;
+    left:0;
+    right: 0;
+    bottom: 0;
+    background-color: blueviolet;
+    z-index: 10000;
+}
+
+.loginContainer {
+    /* margin-top: 10%;
+    margin-left: 35%; */
+    margin: auto;
+    margin-top: 7%;
+    border: 1px solid;
+    width: 30%;
+    height:fit-content;
+    border-radius: 5px;
+    background-color:white ;
+}
+
+.logindiv {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10%;
+    align-items: center;
+    position: relative;
+}
+.gmail_icon{
+    position: absolute;
+    margin-left: 70%;
+    margin-top: 10%;
+    color: #ed0c6e;
+}
+
+.namediv {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    text-align: left;
+    /* align-items: center;
+    justify-content: center; */
+}
+
+.passworddiv {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 10px;
+    text-align: left;
+}
+.submit_btn {
+    padding: 5px 10px;
+    width:7rem;
+    height: 2rem;
+    border-radius: 4px;
+    border: none;
+    font-size: 100%;
+    color: white;
+    background-color: #ed0c6e;
+}
+.gmail {
+    border-radius: 5px;
+   border:1px solid black;
+   height: 100%;
+   box-sizing: border-box;
+  width: 100%;
+ outline: none;
+ padding:10px 40px 10px 5px;
+}
+.password {
+    box-sizing: border-box;
+    border-radius: 5px;
+    border:1px solid black;
+   height: 100%;
+   width: 100%;
+   outline: none;
+   padding:10px 40px 10px 5px;
+}
+.gmailerror {
+   margin-top: 0;
+   color: red;
+}
+@media only screen and (max-width:1025px){
+    .gmail_icon{
+        margin-top: 12%;   
+    }
+    .loginContainer {
+       
+        /* margin-top: 30%; */
+       
+    }
+}
+@media only screen and (max-width:769px){
+    .gmail_icon{
+        margin-top: 10%;   
+    }
+    .loginContainer {
+       
+        width: 50%;
+        
+    }
+}
+@media only screen and (max-width:426px){
+    .gmail_icon{
+        margin-top: 13%;   
+    }
+    .loginContainer {
+        margin: auto;
+        margin-top: 10%;
+        border: 1px solid;
+        width: 73%;
+        height:fit-content;
+        border-radius: 5px;
+        background-color:white ;
+    }
+}
+@media only screen and (max-width:321px){
+    .gmail_icon{
+        margin-top: 16%;   
+    }
+    .loginContainer {
+        
+        margin-top: 20%;
+       
+    }
+}

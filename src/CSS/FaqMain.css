@@ -1,0 +1,28 @@
+.faqmaindiv {
+    margin-top: 120px;
+}
+.qa_main_div {
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    padding: 50px;
+    padding-top: 10px;
+}
+.faqNav {
+    position: absolute;
+    top: 67px;
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    height: 30px;
+    align-items: center;
+    text-align: left;
+    padding-left: 20px;
+    background-color:#f7f8f9 ;
+}
+.p2 {
+    color: red;
+}
+.chevron_i {
+    font-size: 10px;
+}
